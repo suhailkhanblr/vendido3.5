@@ -1,42 +1,41 @@
 {
   "project_info": {
-    "project_number": "000000000000",
-    "firebase_url": "https://flutter-store-ecommerce.firebaseio.com",
-    "project_id": "flutter-store-ecommerce",
-    "storage_bucket": "flutter-store-ecommerce.appspot.com"
+    "project_number": "35679107561",
+    "project_id": "vendido-5581f",
+    "storage_bucket": "vendido-5581f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:376000000000:android:bd90000000000000000000",
+        "mobilesdk_app_id": "1:35679107561:android:66e25f15c3b2c3aa31b378",
         "android_client_info": {
-          "package_name": "com.panaceasoft.flutterbuyandsell"
+          "package_name": "com.phoenix.vendido"
         }
       },
       "oauth_client": [
         {
-          "client_id": "000000000000-00000000000000000000000000000lip.apps.googleusercontent.com",
+          "client_id": "35679107561-24deh4b90p2mln0m1qjd3u7eq58hnfek.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.panaceasoft.flutterbuyandsell",
-            "certificate_hash": "0000000000000000000000000000000000000000"
+            "package_name": "com.phoenix.vendido",
+            "certificate_hash": "9c26522b64d665da33562a6c22974663e9a7c77c"
           }
         },
         {
-          "client_id": "000000000000-00000000000000000000000000000000.apps.googleusercontent.com",
+          "client_id": "35679107561-nr8qbnu6vetkjl816b6nbj9fm1vu1f5b.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaS000000-000000000000000000000000000"
+          "current_key": "AIzaSyCRo9bl7m10FOBkxpITZMFgDAYtEwv1LbY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "000000000000-00000000000000000000000000000000.apps.googleusercontent.com",
+              "client_id": "35679107561-nr8qbnu6vetkjl816b6nbj9fm1vu1f5b.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

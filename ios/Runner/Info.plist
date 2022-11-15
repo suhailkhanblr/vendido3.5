@@ -26,10 +26,10 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>com.panaceasoft.flutterbuyandsell.braintree</string>
+			<string>com.phoenix.vendido.braintree</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.panaceasoft.flutterbuyandsell.braintree</string>
+				<string>com.phoenix.vendido.braintree</string>
 			</array>
 		</dict>
 		<dict>
@@ -63,11 +63,11 @@
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>FacebookAppID</key>
-	<string>000000000000</string>
+	<string>1182156812509184</string>
 	<key>FacebookDisplayName</key>
 	<string>Flutter Buy and Sell</string>
 	<key>GADApplicationIdentifier</key>
-	<string>ca-app-pub-3940256099942544~1458002511</string>
+	<string>ca-app-pub-2740152056778429~8616876177</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>fbapi</string>

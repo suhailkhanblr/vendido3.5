@@ -11,20 +11,20 @@ class PsConfig {
   /// AppVersion
   /// For your app, you need to change according based on your app version
 
-  static const String app_version = '3.5';
+  static const String app_version = '1.0.1';
 
   ///
   /// API Key
   /// If you change here, you need to update in server.
   ///
-  static const String ps_api_key = 'teampsisthebest';
+  static const String ps_api_key = 'cipherdine';
 
   ///
   /// API URL
   /// Change your backend url
   ///
   static const String ps_core_url =
-      'https://www.products.panacea-soft.co/flutter-buysell-demo';
+      'https://admin.vendido.in';
 
   static const String ps_app_url = ps_core_url + '/index.php/';
 
@@ -67,26 +67,26 @@ class PsConfig {
   /// Facebook Key
   ///
   //static const String fbKey = '126556525430166';
-  // static const String fbKey = '000000000000000';
+  static const String fbKey = '1182156812509184';
 
   ///
   ///Admob Setting
   ///
-  //static bool showAdMob = true;
-  static String androidAdMobAdsIdKey = 'ca-app-pub-0000000000000000~0000000000';
+  static bool showAdMob = true;
+  static String androidAdMobAdsIdKey = 'ca-app-pub-2740152056778429~2462531365';
   static String androidAdMobBannerAdUnitId =
-      'ca-app-pub-0000000000000000/0000000000';
+      'ca-app-pub-2740152056778429/6138052493';
   static String androidAdMobNativeAdUnitId =
-      'ca-app-pub-0000000000000000/0000000000';
+      'ca-app-pub-2740152056778429/1536957349';
   static String androidAdMobInterstitialAdUnitId =
-      'ca-app-pub-0000000000000000/0000000000';
-  static String iosAdMobAdsIdKey = 'ca-app-pub-0000000000000000~0000000000';
+      'ca-app-pub-2740152056778429/2298045687';
+  static String iosAdMobAdsIdKey = 'ca-app-pub-2740152056778429~8616876177';
   static String iosAdMobBannerAdUnitId =
-      'ca-app-pub-0000000000000000/0000000000';
+      'ca-app-pub-2740152056778429/1958795026';
   static String iosAdMobNativeAdUnitId =
-      'ca-app-pub-0000000000000000/0000000000';
+      'ca-app-pub-2740152056778429/8158206014';
   static String iosAdMobInterstitialAdUnitId =
-      'ca-app-pub-0000000000000000/0000000000';
+      'ca-app-pub-2740152056778429/3080305009';
 
   ////if demo url 
   static bool isDemo = false;
@@ -126,7 +126,7 @@ class PsConfig {
   ///
 
   static final Language defaultLanguage =
-      Language(languageCode: 'en', countryCode: 'US', name: 'English US');
+      Language(languageCode: 'en', countryCode: 'IN', name: 'English US');
 
   /// For default language change, please check
   /// LanguageFragment for language code and country code

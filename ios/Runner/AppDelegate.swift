@@ -17,7 +17,7 @@
 //     GMSServices.provideAPIKey("AIzaSyATAyoY0jwNqHA281sFD9JkgBYaqgF6KHE")
     
 //     GeneratedPluginRegistrant.register(with: self)
-//     BTAppContextSwitcher.setReturnURLScheme("com.panaceasoft.flutterbuyandsell.braintree")
+//     BTAppContextSwitcher.setReturnURLScheme("com.phoenix.vendido.braintree")
        
 //    if #available(iOS 10.0, *) {
 //      UNUserNotificationCenter.current().delegate = self as? UNUserNotificationCenterDelegate
@@ -28,7 +28,7 @@
 
 //   override
 //     func application(_ app: UIApplication, open url: URL, options: [UIApplication.OpenURLOptionsKey : Any]) -> Bool {
-//     if url.scheme?.localizedCaseInsensitiveCompare("com.panaceasoft.flutterbuyandsell.braintree") == .orderedSame {
+//     if url.scheme?.localizedCaseInsensitiveCompare("com.phoenix.vendido.braintree") == .orderedSame {
 //         return BTAppContextSwitcher.handleOpenURL(url)
 //     }
 //     return false
@@ -37,7 +37,7 @@
 // // If you support iOS 8, add the following method.
 // override
 // func application(_ application: UIApplication, open url: URL, sourceApplication: String?, annotation: Any) -> Bool {
-//     if url.scheme?.localizedCaseInsensitiveCompare("com.panaceasoft.flutterbuyandsell.braintree") == .orderedSame {
+//     if url.scheme?.localizedCaseInsensitiveCompare("com.phoenix.vendido.braintree") == .orderedSame {
 //         return BTAppContextSwitcher.handleOpenURL(url)
 //     }
 //     return false
@@ -77,7 +77,7 @@ import google_mobile_ads
     GMSServices.provideAPIKey("AIzaSyATAyoY0jwNqHA281sFD9JkgBYaqgF6KHE")
     
     GeneratedPluginRegistrant.register(with: self)
-    BTAppContextSwitcher.setReturnURLScheme("com.panaceasoft.flutterbuyandsell.braintree")
+    BTAppContextSwitcher.setReturnURLScheme("com.phoenix.vendido.braintree")
        
    if #available(iOS 10.0, *) {
      UNUserNotificationCenter.current().delegate = self as? UNUserNotificationCenterDelegate
@@ -89,7 +89,7 @@ import google_mobile_ads
 
   override
     func application(_ app: UIApplication, open url: URL, options: [UIApplication.OpenURLOptionsKey : Any]) -> Bool {
-    if url.scheme?.localizedCaseInsensitiveCompare("com.panaceasoft.flutterbuyandsell.braintree") == .orderedSame {
+    if url.scheme?.localizedCaseInsensitiveCompare("com.phoenix.vendido.braintree") == .orderedSame {
         return BTAppContextSwitcher.handleOpenURL(url)
     }
     return false
@@ -98,7 +98,7 @@ import google_mobile_ads
 // If you support iOS 8, add the following method.
 override
 func application(_ application: UIApplication, open url: URL, sourceApplication: String?, annotation: Any) -> Bool {
-    if url.scheme?.localizedCaseInsensitiveCompare("com.panaceasoft.flutterbuyandsell.braintree") == .orderedSame {
+    if url.scheme?.localizedCaseInsensitiveCompare("com.phoenix.vendido.braintree") == .orderedSame {
         return BTAppContextSwitcher.handleOpenURL(url)
     }
     return false

@@ -1,4 +1,4 @@
-package com.panaceasoft.flutterbuyandsell;
+package com.phoenix.vendido;
 
 import io.flutter.embedding.android.FlutterFragmentActivity;
 import io.flutter.embedding.engine.FlutterEngine;
