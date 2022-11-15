@@ -162,6 +162,7 @@ flutter:
    - assets/langs/ar-DZ.json
    - assets/langs/en-US.json
    - assets/langs/hi-IN.json
+   - assets/langs/en-IN.json
    - assets/langs/de-DE.json
    - assets/langs/es-ES.json
    - assets/langs/fr-FR.json
