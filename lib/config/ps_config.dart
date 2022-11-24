@@ -154,7 +154,7 @@ class PsConfig {
   static final List<Language> psSupportedLanguageList = <Language>[
     Language(languageCode: 'en', countryCode: 'US', name: 'English'),
     Language(languageCode: 'ar', countryCode: 'DZ', name: 'Arabic'),
-    Language(languageCode: 'hi', countryCode: 'IN', name: 'Hindi'),
+    Language(languageCode: 'en', countryCode: 'IN', name: 'English'),
     Language(languageCode: 'de', countryCode: 'DE', name: 'German'),
     Language(languageCode: 'es', countryCode: 'ES', name: 'Spainish'),
     Language(languageCode: 'fr', countryCode: 'FR', name: 'French'),
