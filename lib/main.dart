@@ -215,7 +215,7 @@ class _PSAppState extends State<PSApp> {
             themedWidgetBuilder: (BuildContext context, ThemeData theme) {
               return MaterialApp(
                 debugShowCheckedModeBanner: false,
-                title: 'Panacea-Soft',
+                title: 'Vendido',
                 theme: theme,
                 initialRoute: '/',
                 onGenerateRoute: router.generateRoute,
