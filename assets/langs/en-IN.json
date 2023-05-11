@@ -232,7 +232,7 @@
   "app_info__cancel_button_name": "CANCEL",
   "app_info__update_button_name": "UPDATE",
   "app_info__submit_button_name": "SUBMIT",
-  "app_info__splash_name": "www.panacea-soft.com",
+  "app_info__splash_name": "www.vendido.in",
   "basket_list_container__app_bar_name": "Basket List",
   "basket_list__title": "Basket List",
   "basket_list__empty_cart_title": "Cart is Empty",
@@ -481,7 +481,7 @@
   "dashboard_popular_item_desc": "3Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
   "dashboard_follow_item_desc": "4Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 
-  "dashboard__buy_and_sell": "Flutter Buy & Sell",
+  "dashboard__buy_and_sell": "Vendido",
   "dashboard__connect_with_our": "Connect with our community",
   "dashboard__your_location": "Your Location",
   "dashboard__bottom_navigation_catogory": "Interest",
