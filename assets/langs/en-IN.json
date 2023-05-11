@@ -2,9 +2,9 @@
   "app_name": "Vendido", 
   "default__user_name": "User",
   "force_update__update": "UPDATE",
-  "user_status__deleted": "Your account is deleted by Admin",
-  "user_status__banned": "Your account is banned by Admin",
-  "user_status__unpublished": "Your account is unpublished by Admin",
+  "user_status__deleted": "Your account has been deleted due to fraudulent activities",
+  "user_status__banned": "Your account is banned due to fraudulent activities",
+  "user_status__unpublished": "Your account is unpublished due to fraudulent activities ",
   "language_setting__title": "Language Setting",
   "language_selection__title": "Language Selection",
   "language_selection__select": "Please Select Language",
@@ -687,7 +687,5 @@
   "intro_slider_setting" :"Show intro slider",
   "intro_slider_setting_description" : "Basic guide for the app",
   "location_first_explore": "Let's Explore",
-  "demo_warning_title": "Alert for payment ( DEMO App )",
-  "demo_warning_description": "This is the demo application. Please do not input any real payment data and personal information. Just use the sendbox payment data.",
   "dialog_understand": "UNDERSTAND"
 }
