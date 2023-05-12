@@ -159,23 +159,10 @@ flutter:
   assets:
    - assets/images/placeholder_circle_image.png
    - assets/images/placeholder_image.png
-   - assets/langs/ar-DZ.json
    - assets/langs/en-US.json
    - assets/langs/hi-IN.json
    - assets/langs/en-IN.json
-   - assets/langs/de-DE.json
-   - assets/langs/es-ES.json
-   - assets/langs/fr-FR.json
-   - assets/langs/id-ID.json
-   - assets/langs/it-IT.json
-   - assets/langs/ja-JP.json
-   - assets/langs/ko-KR.json
-   - assets/langs/ms-MY.json
-   - assets/langs/pt-PT.json
-   - assets/langs/ru-RU.json
-   - assets/langs/th-TH.json
-   - assets/langs/tr-TR.json
-   - assets/langs/zh-CN.json
+   
    - assets/images/verify_email_icon.jpg
    - assets/images/down.png
    - assets/images/baesline_access_time_black_24.png
