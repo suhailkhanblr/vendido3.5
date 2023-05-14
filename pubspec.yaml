@@ -132,7 +132,7 @@ dependencies:
   community_material_icon: 5.9.55
   visibility_detector: 0.3.3
   geocoding: 2.0.4
-  camera: 0.10.0+2
+  camera: 0.10.5
   app_tracking_transparency: 2.0.2+4 
   firebase_crashlytics: ^2.8.8
 
