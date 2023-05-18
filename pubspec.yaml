@@ -96,7 +96,7 @@ dependencies:
   flutter_facebook_auth: 3.5.6
   photo_view: 0.14.0 
   progress_dialog_null_safe: 1.0.7
-  flutter_braintree: 3.0.0 //2.3.1
+  flutter_braintree: 3.0.0 #//2.3.1
   # launch_review: 3.0.1
   # package_info: 2.0.2
   package_info_plus: 1.4.3
