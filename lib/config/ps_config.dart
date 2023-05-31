@@ -126,7 +126,7 @@ class PsConfig {
   ///
 
   static final Language defaultLanguage =
-      Language(languageCode: 'en', countryCode: 'IN', name: 'English US');
+      Language(languageCode: 'en', countryCode: 'IN', name: 'English');
 
   /// For default language change, please check
   /// LanguageFragment for language code and country code
